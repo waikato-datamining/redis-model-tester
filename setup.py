@@ -13,7 +13,7 @@ def _read(f):
 
 
 setup(
-    name="redis-model-tester",
+    name="redis_model_tester",
     description="Uses gradio to provide a simple web-interface for testing models that interact via Redis.",
     long_description=(
         _read('DESCRIPTION.rst') + b'\n' +
